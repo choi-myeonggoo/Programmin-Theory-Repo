@@ -1,0 +1,277 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1288; Version 2009; 64bit' Language: 'ko' Physical Memory: 16348 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\Unity\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/unity_project/unity_practice/Programmin-Theory-Repo/Programming Theory Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64937
+Successfully changed project path to: F:/unity_project/unity_practice/Programmin-Theory-Repo/Programming Theory Project
+F:/unity_project/unity_practice/Programmin-Theory-Repo/Programming Theory Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path F:/Unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/unity_project/unity_practice/Programmin-Theory-Repo/Programming Theory Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'F:/Unity/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: F:/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001223 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 21.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000487 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 2.220800 ms (FindLiveObjects: 0.205100 ms CreateObjectMapping: 0.064600 ms MarkObjects: 1.859600 ms  DeleteObjects: 0.090600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Weapons/IceWand.prefab
+  artifactKey: Guid(77ffccdb30de0b2408450098c269ce16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/IceWand.prefab using Guid(77ffccdb30de0b2408450098c269ce16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65342f3fcb72db86d26cce0225ef56a4') in 0.099190 seconds
+  Import took 0.114947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Prefabs/Weapons/FireWand.prefab
+  artifactKey: Guid(902cccd1a284b8e4e8c37b631a00df7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/FireWand.prefab using Guid(902cccd1a284b8e4e8c37b631a00df7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb95156e4d33eccd576747f1e881309a') in 0.016497 seconds
+  Import took 0.020101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Prefabs/Weapons/IceWand 1.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/IceWand 1.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d943d836111740e93ab771a5eb216c4') in 0.016098 seconds
+  Import took 0.018759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Prefabs/Weapons/IceWand 1.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/IceWand 1.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d943d836111740e93ab771a5eb216c4') in 0.008365 seconds
+  Import took 0.011399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.147673 seconds.
+  path: Assets/Prefabs/Weapons/IceWand 1.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/IceWand 1.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4969cb44f447e6a2c439be45cf5c9e') in 0.009507 seconds
+  Import took 0.011852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.958335 seconds.
+  path: Assets/Prefabs/Weapons/IceWand 1.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/IceWand 1.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a58598818f4fa83d8b0c70618ebf89') in 0.007879 seconds
+  Import took 0.010225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.178611 seconds.
+  path: Assets/Prefabs/Weapons/LightingWand.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/LightingWand.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fedb8c387fc21bccf241be7b1ad58e') in 0.014616 seconds
+  Import took 0.017140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.601416 seconds.
+  path: Assets/Prefabs/Weapons/LightingWand.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/LightingWand.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83eac9ac8baac5d4be757b54794eb120') in 0.006074 seconds
+  Import took 0.017391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.337025 seconds.
+  path: Assets/Prefabs/Weapons/LightingWand.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/LightingWand.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791696f7c5c60c5f8ed53df08887688e') in 0.009690 seconds
+  Import took 0.028394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.477513 seconds.
+  path: Assets/Prefabs/Weapons/LightingWand.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/LightingWand.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1e1ac542ecbe6cd85f30b718050e7f') in 0.007127 seconds
+  Import took 0.011922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.933210 seconds.
+  path: Assets/Prefabs/Projectiles/IceBolt 1.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/IceBolt 1.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8568a4dba2cb816463203c5a5471392') in 0.015256 seconds
+  Import took 0.018838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.813371 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66381e806b0d15dfe0080820a299ff96') in 0.014118 seconds
+  Import took 0.017003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.737635 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6dab5c0d0cc443dc0bf41c2f9013a9') in 0.011635 seconds
+  Import took 0.029805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.202757 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba9af26e851acbec82248f428155de22') in 0.010890 seconds
+  Import took 0.020350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.573424 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c610680c35ba31199fd90534785a82') in 0.012029 seconds
+  Import took 0.014523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.593278 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1dd36ff90c1942da22a29923bdac30') in 0.007607 seconds
+  Import took 0.017825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.615036 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fced47256f28f2925ecf5863cb031afb') in 0.011160 seconds
+  Import took 0.013551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.816985 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd414fb31f161500ce91e1fb5fbda31b3') in 0.011073 seconds
+  Import took 0.042690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.244651 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781d5aec2f1fc6462b415232c53efcba') in 0.006062 seconds
+  Import took 0.014551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.331399 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd54da80193283c656b32da1056edf329') in 0.011807 seconds
+  Import took 0.022587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.908203 seconds.
+  path: Assets/Prefabs/Projectiles/LightingBolt.prefab
+  artifactKey: Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projectiles/LightingBolt.prefab using Guid(c566d4c7672748741801cce9e471e5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e20eefd90a50ca42b995076c79c046d') in 0.012791 seconds
+  Import took 0.021783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.663591 seconds.
+  path: Assets/Prefabs/Weapons/LightingWand.prefab
+  artifactKey: Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Weapons/LightingWand.prefab using Guid(a42c5332a639a954da4754c681622239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8999476c33166f2aed5fe37bc6b2df6e') in 0.011857 seconds
+  Import took 0.013843 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.2 MB.
+System memory in use after: 73.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1598.
+Total: 2.208500 ms (FindLiveObjects: 0.127700 ms CreateObjectMapping: 0.036800 ms MarkObjects: 1.980900 ms  DeleteObjects: 0.061900 ms)
+
